@@ -3,13 +3,9 @@
     {
       "id": 1,
       "lastName": "Xavier", 
-      "firstName": "Charles"
-    }, 
-    {
-      "id": 2, 
-      "lastName" : "Lehnsherr",
-      "firstName" : "Erich"
+      "firstName": "Charles", 
+      "email": "professorX@krakoa.gov"
     }
-    
+
   ]
 }
