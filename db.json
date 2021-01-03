@@ -2,10 +2,37 @@
   "donors": [
     {
       "id": 1,
-      "lastName": "Xavier", 
-      "firstName": "Charles", 
-      "email": "professorX@krakoa.gov"
+      "lastName": "Xavier",
+      "firstName": "Charles",
+      "email": "professorX@krakoa.gov",
+      "phone": "616-109-1963",
+      "organization": "Quiet Council",
+      "address": {
+        "street": "1407 Graymalkin Lane",
+        "city": "Salem Center",
+        "state": "NY",
+        "zip": "10560"
+      },
+      "donations": [
+        {
+          "id": 0,
+          "date": "Septemeber 10,1963",
+          "amount": 5500,
+          "type": "gift"
+        },
+        {
+          "id": 1,
+          "date": "Augutst 22,1978",
+          "amount": 25000,
+          "type": "sponsorship"
+        },
+        {
+          "id": 2,
+          "date": "December 19, 1998",
+          "amount": 125000,
+          "type": "endowment"
+        }
+      ]
     }
-
   ]
 }
