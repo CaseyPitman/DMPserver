@@ -1,7 +1,7 @@
 {
   "donors": [
     {
-      "id": 1,
+      "id": 0,
       "lastName": "Xavier",
       "firstName": "Charles",
       "email": "professorX@krakoa.gov",
@@ -22,7 +22,7 @@
         },
         {
           "id": 1,
-          "date": "Augutst 22,1978",
+          "date": "August 22,1978",
           "amount": 25000,
           "type": "sponsorship"
         },
@@ -31,6 +31,34 @@
           "date": "December 19, 1998",
           "amount": 125000,
           "type": "endowment"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "lastName": "Eisenhardy",
+      "firstName": "Max",
+      "email": "magnus@krakoa.gov",
+      "phone": "616-109-1936",
+      "organization": "Quiet Council",
+      "address": {
+        "street": "9696 M Drive",
+        "city": "Magnet",
+        "state": "TX",
+        "zip": "77488"
+      },
+      "donations": [
+        {
+          "id": 0,
+          "date": "June 25, 1980",
+          "amount": 1000,
+          "type": "gift"
+        },
+        {
+          "id": 1,
+          "date": "June 29, 1989",
+          "amount": 1000,
+          "type": "gift"
         }
       ]
     }
