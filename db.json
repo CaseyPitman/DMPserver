@@ -1,11 +1,15 @@
 {
-  "posts": [
+  "donors": [
     {
       "id": 1,
-      "title": "hello"
+      "lastName": "Xavier", 
+      "firstName": "Charles"
+    }, 
+    {
+      "id": 2, 
+      "lastName" : "Lehnsherr",
+      "firstName" : "Erich"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    
+  ]
 }
